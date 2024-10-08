@@ -1,3 +1,5 @@
 # <div align="center">  Temperature Converter </div>
 
-<img src="tempareture-converter.png"> 
+<div align="center"> <img src="tempareture-converter.png"></div>
+
+
